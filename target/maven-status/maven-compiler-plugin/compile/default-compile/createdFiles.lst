@@ -1,0 +1,5 @@
+de/itblogging/profiles/HelloProductionProfile.class
+de/itblogging/SpringProfilesApplication.class
+de/itblogging/controller/HelloProfileController.class
+de/itblogging/profiles/HelloTestProfile.class
+de/itblogging/profiles/HelloDefaultProfile.class
